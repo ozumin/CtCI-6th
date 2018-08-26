@@ -1,6 +1,9 @@
 # CtCI-6th
 Do Cracking the Coding Interview 6th Edition by Ruby
 
+## code
+source codes are in lib/.
+
 ## test
 ### testing with Minitest
 Test of 1_1, 1_2, 1_3 are written by Minitest.
